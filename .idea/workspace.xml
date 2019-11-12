@@ -16,7 +16,25 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="194">
               <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-              <folding />
+              <folding>
+                <marker date="1573575340621" expanded="true" signature="892:1113" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="1130:1527" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="1584:2053" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="1590:2050" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="1727:2043" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="1763:2032" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2114:2188" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2203:2329" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2220:2327" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2333:2433" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2463:2857" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2469:2566" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2574:2661" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2669:2757" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2765:2854" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="2861:2936" ph="..." />
+                <marker date="1573575340621" expanded="true" signature="3032:3132" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -47,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/food/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="27" />
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -104,8 +122,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-131" />
-    <option name="y" value="668" />
+    <option name="x" value="-268" />
+    <option name="y" value="570" />
     <option name="width" value="1280" />
     <option name="height" value="710" />
   </component>
@@ -187,7 +205,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-131" y="668" width="1280" height="710" extended-state="0" />
+    <frame x="-268" y="570" width="1280" height="710" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -197,7 +216,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3284553" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -241,7 +260,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="39" column="21" lean-forward="false" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding />
+          <folding>
+            <marker date="1573575340621" expanded="true" signature="892:1113" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="1130:1527" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="1584:2053" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="1590:2050" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="1727:2043" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="1763:2032" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2114:2188" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2203:2329" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2220:2327" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2333:2433" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2463:2857" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2469:2566" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2574:2661" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2669:2757" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2765:2854" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="2861:2936" ph="..." />
+            <marker date="1573575340621" expanded="true" signature="3032:3132" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -266,7 +303,7 @@
     <entry file="file://$PROJECT_DIR$/food/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="27" />
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
