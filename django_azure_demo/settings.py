@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '1-*15--%n*vd!&elz4$3^ua%+6yc$z_e!#h9#-^reh1=$6d7+0'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['*']
 
@@ -79,13 +79,8 @@ WSGI_APPLICATION = 'django_azure_demo.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'new_schema',
-        'USER': 'liuhongyang@hongyang',
-        'PASSWORD':'Lhy942821',
-        'HOST':'hongyang.mysql.database.azure.com',
-        'PORT':'3306',
-        
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
