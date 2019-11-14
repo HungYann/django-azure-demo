@@ -28,8 +28,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['*']
 
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
@@ -80,8 +78,7 @@ WSGI_APPLICATION = 'django_azure_demo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
-        'NAME':  'default.db',
-        
+        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
 
@@ -125,7 +122,3 @@ USE_TZ = True
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static')
-
-
-
-

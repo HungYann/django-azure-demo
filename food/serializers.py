@@ -5,4 +5,3 @@ class foodSerializer(serializers.ModelSerializer):
     class Meta:
         model = myfood
         fields=['beverage']
-
